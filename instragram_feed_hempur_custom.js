@@ -30,7 +30,7 @@
       success: null,
       target: "instafeed",
       template:
-        '<div class="tricks-slider_slide"><div class="tricks-slider_wrap" href="{{link}}" src="{{image}}" ><div class="tricks-slider_flex"><img src="https://assets.website-files.com/62dfe9d566fa022cfbece0c2/62e16c547a2c7288c0941a00_instagram.svg" loading="lazy" alt="" class="image-2"></div></div></div>',
+        '<div class="tricks-slider_slide"><div class="tricks-slider_wrap" href="{{link}}" src="{{image}}" class="image"><div class="tricks-slider_flex"><img src="https://assets.website-files.com/62dfe9d566fa022cfbece0c2/62e16c547a2c7288c0941a00_instagram.svg" loading="lazy" alt="" class="image-2"></div></div></div>',
       templateBoundaries: ["{{", "}}"],
       transform: null,
     };
